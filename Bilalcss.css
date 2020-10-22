@@ -6,7 +6,7 @@ body {
     font: 1em/150% Arial, Helvetica, sans-serif;
 }
 a {
-    color: #669;
+    color: black;
     text-decoration: none;
 }
 a:hover {
@@ -41,10 +41,10 @@ STRUTTURA - dimensione
 
 /* sfondi sostituiti da template*/
 #content {
-    background: #f8f8f8;
+    background: green;
 }
 #sidebar {
-    background: #f0efef;
+    background:green;
 }
 #header, #content, #sidebar {
     margin-bottom: 5px;
