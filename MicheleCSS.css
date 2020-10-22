@@ -41,16 +41,16 @@ STRUTTURA - dimensione
 
 /* sfondi sostituiti da template*/
 #content {
-	background:gray;
+	background:blue;
 }
 #sidebar {
-	background: gray;
+	background: blue;
 }
 #header, #content, #sidebar {
 	margin-bottom: 10px;
 }
 #pagewrap, #header, #content, #sidebar, #footer {
-	border: solid 5px black;
+	border: solid 5px red;
 	}
 
 /************************************************************************************
